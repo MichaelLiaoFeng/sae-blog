@@ -1,0 +1,7 @@
+<p>© 2014 michael的博客.</p>
+<script type="text/javascript">
+$(function(){
+    $('.document').find('pre').addClass('prettyprint linenums');
+    prettyPrint();
+})
+</script>

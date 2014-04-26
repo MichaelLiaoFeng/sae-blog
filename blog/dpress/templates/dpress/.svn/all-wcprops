@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/michaelfeng/!svn/ver/2/1/dpress/templates/dpress
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/michaelfeng/!svn/ver/33/1/dpress/templates/dpress/index.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/michaelfeng/!svn/ver/29/1/dpress/templates/dpress/base.html
+END
+post.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/michaelfeng/!svn/ver/28/1/dpress/templates/dpress/post.html
+END
+ext_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/michaelfeng/!svn/ver/2/1/dpress/templates/dpress/ext_base.html
+END

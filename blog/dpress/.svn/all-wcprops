@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/michaelfeng/!svn/ver/2/1/dpress
+END
+feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/michaelfeng/!svn/ver/2/1/dpress/feeds.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/michaelfeng/!svn/ver/2/1/dpress/urls.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/michaelfeng/!svn/ver/2/1/dpress/tests.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/michaelfeng/!svn/ver/2/1/dpress/__init__.py
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/michaelfeng/!svn/ver/2/1/dpress/admin.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/michaelfeng/!svn/ver/2/1/dpress/widgets.py
+END
+helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/michaelfeng/!svn/ver/2/1/dpress/helper.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/michaelfeng/!svn/ver/2/1/dpress/views.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/michaelfeng/!svn/ver/2/1/dpress/models.py
+END
